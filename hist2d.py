@@ -1,4 +1,6 @@
 ##### SETTING
+"""Please put parameters in this section.
+"""
 fn_potential_rmsd = 'sample/potential_rmsd.dat' #input file name
 num_bin = 40
 
